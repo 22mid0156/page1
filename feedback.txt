@@ -1,0 +1,8 @@
+Name: kani
+Overall Rating: 4
+Food Quality: 3
+Service Offering: 5
+Cleanliness: 3
+Overall Impression: 4
+Comments: nil
+
